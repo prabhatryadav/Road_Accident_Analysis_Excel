@@ -1,4 +1,4 @@
-# Road_Accident_Analysis_Excel
+# Road Accident Analysis Excel
 - Data Management: Collected and structured road accident data for analysis.
  
 - Trend Identification: Analyzed and visualized accident patterns, considering factors like time, weather, and demographics.
